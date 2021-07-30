@@ -1,5 +1,5 @@
 //exercise.js
-//3. riar um loop que percorre o array;
+//3. Cria loop que percorre o array;
 
 let fruits = [3, 4, 10, 1, 12];
 let sum = 0;
