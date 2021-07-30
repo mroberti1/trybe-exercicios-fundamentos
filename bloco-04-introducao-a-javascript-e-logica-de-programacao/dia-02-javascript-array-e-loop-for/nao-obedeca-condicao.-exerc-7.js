@@ -1,5 +1,5 @@
 //exercise.js
-//7. Caso a varíavel obedeça a condição: Imprimir a varíavel;
+//7. Caso não obedeça a condição: Imprimir a mensagem “valor menor que 16”;
 
 //exercise.js
 let fruits = [3, 4, 10, 1, 12];
