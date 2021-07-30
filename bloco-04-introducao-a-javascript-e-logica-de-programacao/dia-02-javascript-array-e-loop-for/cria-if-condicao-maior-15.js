@@ -11,5 +11,6 @@ for (let index = 0; index < fruits.length; index += 1) {
 if (sum > 15) {
 
 } else {
-    
-}
+
+} 
+
