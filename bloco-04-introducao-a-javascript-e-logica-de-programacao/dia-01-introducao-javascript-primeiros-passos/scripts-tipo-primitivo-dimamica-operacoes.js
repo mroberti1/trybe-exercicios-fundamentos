@@ -13,9 +13,7 @@
 //O tipo de variável pode mudar, salvo a const
 
 //Operações Aritméticas
-
 let salary = 3500;
-
 console.log(salary + salary);
 console.log(salary - salary);
 console.log(salary * salary);
@@ -28,3 +26,15 @@ console.log(salary) //acrescenta + 1
 
 salary--;
 console.log(salary) //acrescenta - 1
+
+//Exercício
+
+let patientId = 50;
+let isEnrolled = true;
+const patientInfo = {
+    fistName = 'Ana',
+    lastName = 'Santos',
+};
+const patientEmail = 'ana@email.com'
+
+console.log(typeof patientAge)
