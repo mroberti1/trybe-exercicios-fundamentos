@@ -28,7 +28,7 @@ console.log(" ");
 const gym = "segunda-feira"
 
 if(gym === "segunda-feira" || gym ==="quarta-feira") {
-    console.log("Não vou a Acafemia!")
+    console.log("Não vou a academia!")
 } else if (gym === "terça-feira" || gym === "quinta-feira" || gym === "sexta-feira") {
     console.log("Oba, tenho academia!")
 }else if (gym === "sabado" || gym === "domingo") {
